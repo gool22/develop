@@ -1,3 +1,7 @@
 created by ASIA-123
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi, accusantium?
+
+// new stuff after first add and first commit
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, vero?
