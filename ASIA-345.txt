@@ -1,1 +1,4 @@
 this is created by branch ASIA-345
+
+added to new commit
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, dolor dolorem similique dolores velit, illum. Voluptates atque sunt dolorum quos. Minima ipsa commodi esse officia, facilis amet recusandae at, natus.
